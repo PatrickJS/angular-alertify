@@ -1,3 +1,3 @@
 angular-alertify
 ================
-status: work in progress
+status: Work in progress
